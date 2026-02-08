@@ -1,7 +1,9 @@
 ## Bonjour 👋
 
-I'm Chloe, an Engineer in Physics with 10yrs+ experience in Project and Product management. I love problem-solving and both organizational and technical challenges. My hobbies are : AI-ML Hackathons, ultratrailing, bicycling around the world and learning FPGA.
-Currently in SF/CA (US) 🇺🇸
+I'm Chloe, an Engineer in Physics with 10yrs+ experience in Project and Product management. I love problem-solving and both organizational and technical challenges.
+Work experience : AI (Inference, Agentic, GPU), Cloud Computing (Infrastructure, OEM-ODM, Docker payloads, etc.), Technical Program Management (Crossteam coordination, Benchmarking, Documentation), AI Consultant (Real Estate, Architecture, Entertainment), Data Science and Public Speaking. 
+Hobbies : AI-ML Hackathons, ultratrail, bicycling around the world and learning FPGA.
+Location : Currently in SF/CA (US) 🇺🇸
 
 ![that's me](thatsme.png)
 
