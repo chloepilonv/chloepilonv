@@ -1,6 +1,5 @@
 ## Bonjour 👋
 
-<!--
 I'm Chloe, an engineer in Physics with 10yrs+ experience in project and product mangement. I love problem-solving in both organizational and technical challenges. 
 My hobbies are : AI-ML Hackathons, ultratrailing, bicycling around the world and learning FPGA.
 
@@ -18,4 +17,3 @@ List of projects from hackathons, personal hobbys or academic work. Some project
 - 🧪 [pinns-hacktoberfest](https://github.com/chloepilonv/pinns-hacktoberfest) — PINNs on OpenFOAM (WIP)  
 - 🔬 [percolation-theory-modeling](https://github.com/chloepilonv/percolation-theory-modeling) — Percolation and epidemiology modeling  
 
--->
