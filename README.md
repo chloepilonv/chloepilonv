@@ -10,7 +10,7 @@ I'm Chloe, an Engineer in Physics with 10yrs+ experience in Project and Product 
 List of projects from hackathons, personal hobbys or academic work. Some projects are private or as part of a company, and not shown here : 
 - 👵 [vlm-monitoring-system](https://github.com/chloepilonv/angelcare-system) - An AI-powered monitoring system, that reasons (with fine-tuned Nvidia Cosmos Reason2 8B) on behaviors at risk of people living alone 
 - 🔭 [interactive-catalogue](https://github.com/chloepilonv/interactive-catalogue) — Interactive museum catalogue builder with Gemini Vision Detector
-- 🦀 [claude-builder-starterpack] (https://github.com/chloepilonv/claude-builder-starterpack) - A plug-in (Skills, Subagents, Hooks) meant to optimize my workflow for fast MCP release, leveraging some Claude Code features. 
+- 🦀 [claude-builder-starterpack](https://github.com/chloepilonv/claude-builder-starterpack) - A plug-in (Skills, Subagents, Hooks) meant to optimize my workflow for fast MCP release, leveraging some Claude Code features. 
 - 🧪 [ideas-recorder-raspberrypi](https://github.com/chloepilonv/voice-nightlight-raspberrypi) — A Rasberry Pi project that records my ideas at night, and send an email the next morning with the summary of it 
 - 🤖 [knowledgegraph-email-agent](https://github.com/chloepilonv/knowledgegraph-email-agent) — 2-hour hackathon AI agent with knowledge graph, qdrant embeddings & agentic email generation 
 - 🧠 [mcp-server-qarnot](https://github.com/chloepilonv/mcp-server-qarnot) — MCP server to let AI clients manage & query Qarnot tasks 
