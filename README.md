@@ -8,7 +8,7 @@ I'm Chloe, an Engineer in Physics with 10yrs+ experience in Project and Product 
 ![that's me](thatsme.png)
 
 List of projects from hackathons, personal hobbys or academic work. Some projects are private or as part of a company, and not shown here : 
-- 👵 [vlm-monitoring-system](https://github.com/chloepilonv/angelcare-system) - An AI-powered monitoring system, that reasons (with fine-tuned Nvidia Cosmos Reason2 8B) on behaviors at risk of people living alone.
+- 👵 [vlm-monitoring-system](https://github.com/chloepilonv/vlm-safety-monitoring-system) - An AI-powered monitoring system, that reasons (with fine-tuned Nvidia Cosmos Reason2 8B) on behaviors at risk of people living alone.
 - 📺 [vlm-post-training-interface](https://github.com/chloepilonv/post-train-app) - An intertface to make it easier to post-train (full SFT, or Lora/QLora) a VLM for a project I am working on, and manually labelled the DIY video datasets in the llava dataset format.
 - 🔭 [interactive-catalogue](https://github.com/chloepilonv/interactive-catalogue) — Interactive museum catalogue builder with Gemini Vision Detector. Made for my dad for Xmas.
 - ✍️ [serie-of-poems-with-the-machines](https://github.com/chloepilonv/serie_of_poems_with_the_machines) - a collection of poetic and fictional conversations with Claude Code, ChatGPT, and Gemini - written on a real typewritting machine. 
