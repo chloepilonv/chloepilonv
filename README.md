@@ -1,6 +1,6 @@
 ## Bonjour 👋
 
-I'm Chloe, an Engineer in Physics with 10yrs+ experience in Project and Product management. I'm endlessly curious and never sure if it's a quality or a flaw, but anyway, here I am happily exploring and putting my hands in the dirt. Yeah! <br>
+I'm Chloe, an Engineer in Physics, AI & Cloud with 10yrs+ experience in Project and Product management. <br>
 **XP** : AI (Inference, Agentic, GPU), Cloud Computing (Infrastructure, OEM-ODM, Docker payloads, MPI, etc.), Technical Program Management (Crossteam coordination, Benchmarking, Documentation), AI Consultant (Real Estate, Architecture, Entertainment), Data Science and Public Speaking. <br>
 **Hobbies** : AI-ML Hackathons, ultratrail, bicycling around the world. <br>
 **Location** : Currently in SF/CA (US) 🇺🇸
@@ -13,6 +13,7 @@ List of projects from hackathons, personal hobbies or academic work. Some projec
 - ⏱️ [time-machine](https://github.com/chloepilonv/timemachine) Choose a location, generates past/present/future worlds, and traverse through each eras via wormholes with an AI tour guide agent answering all your questions (in VR). 
 - 👵 [vlm-monitoring-system](https://github.com/chloepilonv/vlm-safety-monitoring-system) — An AI-powered monitoring system, that reasons (with fine-tuned Nvidia Cosmos Reason2 8B) on behaviors at risk of people living alone.
 - 📺 [vlm-post-training-interface](https://github.com/chloepilonv/post-train-app) — An interface to make it easier to post-train (full SFT, or LoRA/QLoRA) a VLM, with manually labelled DIY video datasets in the LLaVA dataset format.
+- 🤖 [mcp-server-isaac-sim](https://github.com/chloepilonv/mcp-server-isaacsim) - MCP Server for Isaac SIM (via their Python API), when running on a Nvidia GPU on Nebius
 - 🧪 [pinns-hacktoberfest](https://github.com/chloepilonv/pinns-hacktoberfest) — Physics Informed Neural Network on OpenFOAM (In total WIP)
 
 ### AI Agents & RAG
@@ -25,7 +26,7 @@ List of projects from hackathons, personal hobbies or academic work. Some projec
 - ⚙️ [gpumode-gemm-benchmarkingtool](https://github.com/chloepilonv/gpumode-gemm-benchmarkingtool) — GPU benchmarking tool for self-made GEMM vs Pytorch and Triton
 - 🔩 [tiny-gpu](https://github.com/chloepilonv/tiny-gpu) — A minimal GPU design in Verilog to learn how GPUs work from the ground up
 - ☁️ [neocloud-bench](https://github.com/chloepilonv/neocloud-bench) — Performed a few neoclouds bench during the holidays. Didn't get the job, I need to have 10 years more experience in Kubernetes.
-- 
+
 ### Developer Tools & Cloud
 - 🦀 [claude-builder-starterpack](https://github.com/chloepilonv/claude-builder-starterpack) — A plug-in (Skills, Subagents, Hooks) meant to optimize my workflow for fast MVP release, leveraging Claude Code features.
 - 📓 [blog-samples](https://github.com/chloepilonv/blog-samples) — Code used on Qarnot blog posts to launch scripts for OpenFOAM, Ansys, StarCCM+, etc. multiphysics simulation
