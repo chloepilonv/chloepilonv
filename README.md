@@ -13,7 +13,8 @@ List of projects from hackathons, personal hobbies or academic work. Some projec
 - ⏱️ [time-machine](https://github.com/chloepilonv/timemachine) Choose a location, generates past/present/future worlds, and traverse through each eras via wormholes with an AI tour guide agent answering all your questions (in VR). 
 - 👵 [vlm-monitoring-system](https://github.com/chloepilonv/vlm-safety-monitoring-system) — An AI-powered monitoring system, that reasons (with fine-tuned Nvidia Cosmos Reason2 8B) on behaviors at risk of people living alone.
 - 📺 [vlm-post-training-interface](https://github.com/chloepilonv/post-train-app) — An interface to make it easier to post-train (full SFT, or LoRA/QLoRA) a VLM, with manually labelled DIY video datasets in the LLaVA dataset format.
-- 🔩 [robot-inserting-qsfp28](https://github.com/chloepilonv/robot-qsfp28-inserter) - Training an ABB IRB 120 to insert an QSFP28 module into a TE Connectivity connector (starting with a regular Isaac-Factory-PegInsert-Direct-v0), in IsaacSim/trained with IsaacLab
+- 🔩 [robot-inserting-qsfp28](https://github.com/chloepilonv/robot-qsfp28-inserter) - Training an ABB IRB 120 to insert an QSFP28 module into a TE Connectivity connector (starting with a regular Isaac-Factory-PegInsert-Direct-v0), in IsaacSim/trained with IsaacLab (WIP)
+- 🤌 [so101-fun-task](https://github.com/chloepilonv/so101-afternoon) - Just an afternoon having fun with the so101
 - 🤖 [mcp-server-isaac-lac](https://github.com/chloepilonv/mcp-server-isaacsim) - MCP Server for Isaac Lab 
 - 🧪 [pinns-hacktoberfest](https://github.com/chloepilonv/pinns-hacktoberfest) — Physics Informed Neural Network on OpenFOAM (In total WIP)
 
