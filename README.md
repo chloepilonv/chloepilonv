@@ -19,7 +19,7 @@ List of projects from hackathons, personal hobbies or academic work. Some projec
 - 🧪 [pinns-hacktoberfest](https://github.com/chloepilonv/pinns-hacktoberfest) — Physics Informed Neural Network on OpenFOAM (In total WIP)
 
 ### AI Agents & RAG
-- 💟 [mcp-server-qarnot](https://github.com/chloepilonv/mcp-server-qarnot) — MCP server to let AI clients manage & query Qarnot tasks
+- 💟 [mcp-server-qarnot](https://github.com/chloepilonv/mcp-server-qarnot) — MCP server to let AI clients manage & query Qarnot (a multiphysics simulation platform) tasks
 - 🤖 [knowledgegraph-email-agent](https://github.com/chloepilonv/knowledgegraph-email-agent) — 2-hour hackathon AI agent with knowledge graph, Qdrant embeddings & agentic email generation
 - 💬 [ai-rag-chatbot-aws](https://github.com/chloepilonv/ai-rag-chatbot-aws) — RAG Chatbot that ingests company documentation, as part of AWS AI Builder Hackathon
 - 🎙️ [podcast-voice-agent](https://github.com/chloepilonv/podcast-voice-agent) — Built an Ada Lovelace agent to interact with in a podcast
