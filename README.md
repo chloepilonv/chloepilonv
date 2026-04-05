@@ -26,7 +26,6 @@ List of projects from hackathons, personal hobbies or academic work. Some projec
 
 ### GPU, Inference & ML Infrastructure
 - ⚙️ [gpumode-gemm-benchmarkingtool](https://github.com/chloepilonv/gpumode-gemm-benchmarkingtool) — GPU benchmarking tool for self-made GEMM vs Pytorch and Triton
-- 🔩 [tiny-gpu](https://github.com/chloepilonv/tiny-gpu) — A minimal GPU design in Verilog to learn how GPUs work from the ground up
 - ☁️ [neocloud-bench](https://github.com/chloepilonv/neocloud-bench) — Performed a few neoclouds bench during the holidays. Didn't get the job, I need to have 10 years more experience in Kubernetes.
 
 ### Developer Tools & Cloud
