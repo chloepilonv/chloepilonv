@@ -15,7 +15,7 @@ List of projects from hackathons, personal hobbies or academic work. Some projec
 - 📺 [vlm-post-training-interface](https://github.com/chloepilonv/post-train-app) — An interface to make it easier to post-train (full SFT, or LoRA/QLoRA) a VLM, with manually labelled DIY video datasets in the LLaVA dataset format.
 - 🪑 [launching-isaacsim-on-nebius](https://github.com/chloepilonv/isaacsim_nebius) - Guide to launch Isaacsim on a Nebius L40S instance.
 - 🔩 [robot-inserting-qsfp28](https://github.com/chloepilonv/robot-qsfp28-inserter) - Training an ABB IRB 120 to insert an QSFP28 module into a TE Connectivity connector (starting with a regular Isaac-Factory-PegInsert-Direct-v0), in IsaacSim/trained with IsaacLab (WIP)
-- 🤖 [mcp-server-isaac-lac](https://github.com/chloepilonv/mcp-server-isaacsim) - MCP Server for Isaac Lab 
+- 🤖 [physics-surrogate](https://github.com/chloepilonv/physics-surrogate) - Try out on PhysNemo FNO
 - 🧪 [pinns-hacktoberfest](https://github.com/chloepilonv/pinns-hacktoberfest) — Physics Informed Neural Network on OpenFOAM (In total WIP)
 
 ### AI Agents & RAG
